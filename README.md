@@ -200,7 +200,7 @@ Greedy Algorithms
 
 🔗 LinkedIn: https://www.linkedin.com/in/ashish-dubey-8904a52b3/
 
-🧠 LeetCode: Add your LeetCode link
+🧠 LeetCode: Add your LeetCode lin
 
 ---
 
