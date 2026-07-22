@@ -5,11 +5,17 @@ AI & Machine Learning Engineer | Backend Developer | Generative AI Builder
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Backend+Developer;Generative+AI+Builder;FastAPI+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Backend+Developer;FastAPI+Developer;Open+Source+Contributor;Building+Intelligent+Systems;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=dubey233445&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dubey233445&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/dubey233445?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/dubey233445?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
@@ -17,9 +23,9 @@ AI & Machine Learning Engineer | Backend Developer | Generative AI Builder
 # 🚀 About Me
 
 - 🎓 B.Tech Computer Science (AI & ML)
-- 🤖 Passionate about AI, Machine Learning & Generative AI
-- 💻 Backend Developer using FastAPI, Flask & Node.js
-- 🔐 Interested in System Design, Secure Platforms & Automation
+- 🤖 Passionate about AI, ML, LLMs and Generative AI
+- 💻 Backend Developer (FastAPI, Flask, Node.js)
+- 🔐 Interested in Secure Systems & AI Automation
 - 🧠 Solved 300+ DSA Problems
 
 ---
@@ -27,101 +33,55 @@ AI & Machine Learning Engineer | Backend Developer | Generative AI Builder
 # 🛠 Tech Stack
 
 ## Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,r" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,r"/>
 </p>
 
----
-
-## AI / Machine Learning
-
+## AI / ML
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
-**Technologies**
-
-- CNN
-- LSTM
-- Transformers
-- NLP
-- Scikit-Learn
-- OpenCV
-
----
+CNN • LSTM • Transformers • NLP • Scikit-Learn • OpenCV • LangChain • FAISS
 
 ## Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express"/>
 </p>
 
-- REST APIs
-- JWT Authentication
-- Microservices
-
----
-
-## Databases
-
+## Database
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
 </p>
 
-Vector Databases
-
-- FAISS
-- Pinecone
-
----
-
-## DevOps
-
+## Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=dubey233445&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=dubey233445&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubey233445&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dubey233445&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dubey233445&theme=tokyo-night"/>
-
 </p>
 
 ---
@@ -129,9 +89,7 @@ Vector Databases
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/dubey233445/dubey233445/output/github-contribution-grid-snake.svg" />
-
+<img src="https://raw.githubusercontent.com/dubey233445/dubey233445/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -140,84 +98,63 @@ Vector Databases
 
 ## 🤖 AI Software Engineer (Autonomous AI Agent)
 
-Transforms GitHub Issues into production-ready Pull Requests automatically.
-
-**Features**
-
-- Repository Cloning
-- Issue Analysis
+- Converts GitHub Issues into production-ready Pull Requests
 - Architecture Planning
 - Code Generation
-- Test Execution
-- Pull Request Creation
+- Automated Testing
+- GitHub PR Creation
 
-**Tech Stack**
-
-Python • OpenAI • FastAPI • GitHub API
+**Tech:** Python • OpenAI • FastAPI • GitHub API
 
 ---
 
 ## 🔐 VaultGuard
 
-Secure Digital Inheritance Platform.
-
-**Features**
+Secure Digital Inheritance Platform
 
 - AES-256 Encryption
 - JWT Authentication
-- Role-Based Access Control
-- Secure Nominee Access
-- Admin Dashboard
+- Role-Based Access
+- Audit Logs
 
-**Tech Stack**
-
-React • TypeScript • Node.js • PostgreSQL
+**Tech:** React • TypeScript • Node.js • PostgreSQL
 
 ---
 
 ## 🧠 Medical Q&A Chatbot
 
-AI-powered medical assistant using Retrieval-Augmented Generation.
-
-**Features**
-
-- Semantic Search
-- FAISS Vector Database
-- Hugging Face Embeddings
-- Context-Aware Answers
-
-**Tech Stack**
-
-FastAPI • LangChain • FAISS • Transformers
+- RAG
+- LangChain
+- FAISS
+- HuggingFace
 
 ---
 
-# 📈 Coding Profiles
+# 🏆 Coding Profiles
 
 - 🧠 300+ DSA Problems Solved
-- 📚 LeetCode
-- 💻 GeeksforGeeks
+- 💻 LeetCode
+- 📚 GeeksforGeeks
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email**
+📧 **Email**  
+dubeyashish8957@gmail.com
 
-**dubeyashish8957@gmail.com**
-
-💻 **GitHub**
-
-https://github.com/dubey233445
-
-🔗 **LinkedIn**
-
+💼 **LinkedIn**  
 https://www.linkedin.com/in/ashish-dubey-8904a52b3/
+
+💻 **GitHub**  
+https://github.com/dubey233445
 
 ---
 
 <p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
-⭐ <b>Building Intelligent Systems That Solve Real-World Problems.</b>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
