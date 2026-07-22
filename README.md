@@ -1,92 +1,96 @@
 <h1 align="center">Hi 👋, I'm Ashish Dubey</h1>
 
+<h3 align="center">
+AI & Machine Learning Engineer | Backend Developer | Generative AI Builder
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Backend+Developer;Generative+AI+Builder;DSA+Problem+Solver;Building+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Backend+Developer;Generative+AI+Builder;FastAPI+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-Computer Science Undergraduate (AI & ML) | Backend Developer | AI Engineer
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dubey233445&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=dubey233445&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 B.Tech Computer Science (AI & ML) Student
-
-🤖 Passionate about Artificial Intelligence, Machine Learning and Generative AI
-
-💻 Backend developer building scalable APIs and intelligent systems
-
-🔐 Interested in system design, secure software platforms and automation
-
-🧠 Solved **300+ DSA problems on LeetCode**
+- 🎓 B.Tech Computer Science (AI & ML)
+- 🤖 Passionate about AI, Machine Learning & Generative AI
+- 💻 Backend Developer using FastAPI, Flask & Node.js
+- 🔐 Interested in System Design, Secure Platforms & Automation
+- 🧠 Solved 300+ DSA Problems
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming Languages
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,r" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,r" />
 </p>
 
 ---
 
-### AI / Machine Learning
+## AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-Technologies:
-CNN • LSTM • Transformers • NLP • scikit-learn
+**Technologies**
+
+- CNN
+- LSTM
+- Transformers
+- NLP
+- Scikit-Learn
+- OpenCV
 
 ---
 
-### Backend Development
+## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 </p>
 
-REST APIs • Authentication • Microservices
+- REST APIs
+- JWT Authentication
+- Microservices
 
 ---
 
-### Databases
+## Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
-Vector Databases:
-FAISS • Pinecone
+Vector Databases
+
+- FAISS
+- Pinecone
 
 ---
 
-### Cloud / DevOps
+## DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git" />
 </p>
-
-CI/CD • Containerization
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dubey233445&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dubey233445&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dubey233445&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=dubey233445&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -96,23 +100,23 @@ CI/CD • Containerization
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubey233445&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubey233445&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dubey233445&theme=onedark&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dubey233445&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Activity Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -122,86 +126,98 @@ CI/CD • Containerization
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
-![Snake animation](https://github.com/dubey233445/dubey233445/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/dubey233445/dubey233445/output/github-contribution-grid-snake.svg" />
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔐 VaultGuard – Secure Digital Inheritance Platform
+## 🤖 AI Software Engineer (Autonomous AI Agent)
 
-Secure digital vault for storing sensitive documents.
+Transforms GitHub Issues into production-ready Pull Requests automatically.
 
-Features:
+**Features**
 
-• AES-256 client-side encryption
-• Role-Based Access Control (RBAC)
-• JWT authentication
-• Nominee inheritance access system
-• Admin dashboard with audit logging
+- Repository Cloning
+- Issue Analysis
+- Architecture Planning
+- Code Generation
+- Test Execution
+- Pull Request Creation
 
-Tech Stack:
-React • TypeScript • Node.js • REST APIs
+**Tech Stack**
 
----
-
-## ✋ ISL Gesture Recognition System
-
-Real-time **Indian Sign Language recognition system**
-
-Features:
-
-• CNN + LSTM deep learning architecture
-• Achieved **90% accuracy**
-• Real-time gesture recognition API
-
-Tech:
-TensorFlow • OpenCV • Flask
+Python • OpenAI • FastAPI • GitHub API
 
 ---
 
-## 🌍 Travel Recommendation Chatbot (LLM + RAG)
+## 🔐 VaultGuard
 
-AI-powered travel assistant.
+Secure Digital Inheritance Platform.
 
-Features:
+**Features**
 
-• Retrieval Augmented Generation
-• LangChain + OpenAI API
-• FAISS vector database
-• Semantic search for better responses
+- AES-256 Encryption
+- JWT Authentication
+- Role-Based Access Control
+- Secure Nominee Access
+- Admin Dashboard
 
-Tech:
-FastAPI • LangChain • OpenAI API
+**Tech Stack**
+
+React • TypeScript • Node.js • PostgreSQL
 
 ---
 
-# 🧠 Problem Solving
+## 🧠 Medical Q&A Chatbot
 
-Solved **300+ problems on LeetCode**
+AI-powered medical assistant using Retrieval-Augmented Generation.
 
-Topics covered:
+**Features**
 
-Arrays
-Trees
-Graphs
-Dynamic Programming
-Greedy Algorithms
+- Semantic Search
+- FAISS Vector Database
+- Hugging Face Embeddings
+- Context-Aware Answers
+
+**Tech Stack**
+
+FastAPI • LangChain • FAISS • Transformers
+
+---
+
+# 📈 Coding Profiles
+
+- 🧠 300+ DSA Problems Solved
+- 📚 LeetCode
+- 💻 GeeksforGeeks
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: [dubeyashish8957@gmail.com](mailto:dubeyashish8957@gmail.com)
+📧 **Email**
 
-💻 GitHub: https://github.com/dubey233445
+**dubeyashish8957@gmail.com**
 
-🔗 LinkedIn: https://www.linkedin.com/in/ashish-dubey-8904a52b3/
+💻 **GitHub**
 
-🧠 LeetCode: Add your LeetCode lin
+https://github.com/dubey233445
+
+🔗 **LinkedIn**
+
+https://www.linkedin.com/in/ashish-dubey-8904a52b3/
 
 ---
 
-⭐ *Building intelligent systems that solve real-world problems.*
+<p align="center">
+
+⭐ <b>Building Intelligent Systems That Solve Real-World Problems.</b>
+
+</p>
