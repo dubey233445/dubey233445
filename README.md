@@ -60,12 +60,11 @@ CNN • LSTM • Transformers • NLP • Scikit-Learn • OpenCV • LangChain 
 </p>
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dubey233445&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=dubey233445&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Statistics"
   />
@@ -87,6 +86,8 @@ CNN • LSTM • Transformers • NLP • Scikit-Learn • OpenCV • LangChain 
     alt="Most Used Languages"
   />
 </p>
+
+---
 
 ---
 
