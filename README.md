@@ -86,11 +86,25 @@ CNN • LSTM • Transformers • NLP • Scikit-Learn • OpenCV • LangChain 
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/dubey233445/dubey233445/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dubey233445/dubey233445/gh-pages/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dubey233445/dubey233445/gh-pages/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/dubey233445/dubey233445/gh-pages/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
+
 
 ---
 
